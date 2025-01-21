@@ -1,3 +1,5 @@
+[![Tests](https://github.com/zirition/click-supercharged/workflows/Python%20package/badge.svg)](https://github.com/zirition/click-supercharged/actions?query=workflow%3APython%20package)
+
 # Click Supercharged
 
 ## Overview
